@@ -1,0 +1,13 @@
+.App-header {
+  height: 70px;
+
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 0px 0px;
+  margin-top: 0px;
+}
+
+.App-header h2 {
+  background-color: purple;
+  padding-left: 100px;
+}
